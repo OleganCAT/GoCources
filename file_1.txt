@@ -1,4 +1,4 @@
-mineral water
+mineral water 1
 apple
 sugar
 salt 2
