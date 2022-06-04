@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 juice 12
+=======
+mineral water 1
+>>>>>>> 29dd8ca1acd3ffa3e68e6e0a02b5e6c2dc9ccb76
 apple
 sugar
-salt
+salt 2
 
