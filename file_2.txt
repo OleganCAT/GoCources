@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello world
 hi
 world
 
+=======
+Hello world 100
+>>>>>>> 4c0352a9e988a3e3b3909b31a6585ca06475fd4c
