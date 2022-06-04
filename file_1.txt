@@ -1,5 +1,5 @@
 mineral water
 apple
 sugar
-salt
+salt 2
 
