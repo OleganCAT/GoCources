@@ -1,0 +1,10 @@
+juice 12
+apple
+sugar
+<<<<<<< HEAD
+salt 2
+
+=======
+salt
+yes
+>>>>>>> 106675112617c10c74e4674a937613df57b355c2
